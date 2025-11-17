@@ -1,0 +1,9 @@
+posprzataj pokoj|wysoki|False
+zloz komputer|wysoki|True
+wynies smieci|sredni|False
+umyj naczynia|niski|False
+zrob zakupy|sredni|True
+napraw rower|wysoki|False
+napisz raport|niski|False
+przeczytaj ksiazke|sredni|True
+posprzataj biurko|wysoki|True
