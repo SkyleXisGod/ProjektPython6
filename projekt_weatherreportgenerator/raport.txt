@@ -1,0 +1,17 @@
+Prognozy pogodowe:
+Miasto: Gdańsk, Temperatura: -4°C, Warunki: Zachmurzenie
+Miasto: Sztutowo, Temperatura: -2°C, Warunki: Zachmurzenie
+Miasto: Elbląg, Temperatura: 27°C, Warunki: Zachmurzenie
+Miasto: Nowy Dwór Gdański, Temperatura: 10°C, Warunki: Zachmurzenie
+Miasto: Stegna, Temperatura: 11°C, Warunki: Słonecznie
+Miasto: Kąty Rybackie, Temperatura: 30°C, Warunki: Słonecznie
+Miasto: Warszawa, Temperatura: 18°C, Warunki: Zachmurzenie
+Miasto: Kraków, Temperatura: 25°C, Warunki: Zachmurzenie
+Miasto: Wrocław, Temperatura: 29°C, Warunki: Słonecznie
+Miasto: Rzeszów, Temperatura: -5°C, Warunki: Zachmurzenie
+Miasto: Radom, Temperatura: 17°C, Warunki: Zachmurzenie
+
+Podsumowanie:
+Średnia temperatura: 14.2°C
+Najwyższa temperatura: 30°C (Kąty Rybackie)
+Najniższa temperatura: -5°C (Rzeszów)
