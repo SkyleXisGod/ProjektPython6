@@ -16,7 +16,7 @@ cars = [
     {"id": 5, "brand": "BMW", "model": "320i", "year": 2019}
 ]
 
-@app.get("/cars")
+@app.get("/")
 def get_cars():
     return cars
 
