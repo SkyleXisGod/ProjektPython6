@@ -38,10 +38,10 @@ def create_car(car: Car):
 def update_car(car_id: int, car: Car):
     for index, existing_car in enumerate(cars):
         if existing_car["id"] == car_id:
-          updated_car = car.dict()
-          updated_car["id"] = car_id
-          cars[index] = updated_car
-          return updated_car
+            updated_car = car.dict()
+            updated_car["id"] = car_id
+            cars[index] = updated_car
+            return updated_car
 
 @app.delete("/cars/{car_id}")
 def delete_car(car_id: int):
