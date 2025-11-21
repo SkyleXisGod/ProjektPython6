@@ -113,7 +113,7 @@ def delete_animal(id: int, db: Session = Depends(get_db)):
 def search_animals(name: str, db: Session = Depends(get_db)):
     animals = db.query(AnimalDB).all()
 
-    # dokładne dopasowanie podciągu
+    # dokładne dopasowanie
     sub_results = []
     for a in animals:
         if name.lower() in a.name.lower():
