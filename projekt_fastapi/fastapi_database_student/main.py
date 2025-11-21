@@ -119,7 +119,7 @@ def search_animals(name: str, db: Session = Depends(get_db)):
         if name.lower() in a.name.lower():
             sub_results.append(a)
 
-    # dopasowanie przybliżone (fuzzy)
+    # dopasowanie przybliżone
     fuzzy_results = []
     for a in animals:
         similarity = difflib.SequenceMatcher(None, name.lower(), a.name.lower()).ratio()
